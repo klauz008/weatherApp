@@ -16,8 +16,7 @@ body {
     margin-left: 10px; */
     border-radius: 10px;
     position: absolute;
-    visibility: hidden;
-    margin: auto;
+    visibility: hidden;   
 }
 #weatherContainer h1 {
     margin: 5px;
@@ -28,8 +27,8 @@ body {
     padding: 15px;
     position: absolute;
     top: 0;
-    right: 0;
-    margin-left: auto;
+    /* right: 0; */
+    margin: auto;
 }
 #searchContainer input {
     width: 200px;
